@@ -1,3 +1,6 @@
+Juan Antonio Figueroa Rodriguez
+A01369043
+
 Situacion Problema.
 
 Problemática General
@@ -16,3 +19,11 @@ Una forma de detectar este tipo de situaciones es a través de recopilación de 
 ¿Cómo distinguir los accesos "reales" de aquellos que no lo son?
 ¿Cómo podemos realizar grupos de información que caractericen estos accesos?
 
+Repositorio.
+Rewpositorio donde tendremos gurado lo siguiente:
+ActInt1
+ActInt2 
+reflexión individual
+ActInt3
+ActInt4
+ActInt5
